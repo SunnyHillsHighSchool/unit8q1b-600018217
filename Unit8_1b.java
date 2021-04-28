@@ -1,4 +1,5 @@
 //Unit 8 Lab Question 1
+//Johnathan Mitri
 public class Unit8_1b
 {
   public int [] [] modifyRows (int [] [] array)
