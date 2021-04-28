@@ -17,4 +17,4 @@ System.out.println(Arrays.toString(row));
 //1 5 4 8 7 3
 //1 5 4 8 7 3
 //2 4 3 3 6 0
-//9 4 3 3 6 0
+//2 4 3 3 6 0
